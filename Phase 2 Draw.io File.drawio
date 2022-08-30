@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T13:39:02.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FG0XbM9AO1Cuv_iqn0bB" version="20.2.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-08-30T13:53:23.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="G42RGcK0dy2kW_tpfT23" version="20.2.7" type="github" pages="11">
   <diagram id="GwdA1OMSDbkMOna7wACb" name="Queue - Main">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -374,9 +374,6 @@
         <mxCell id="jKUYUBBLsoHnKVk6dKpS-0" value="Assi&lt;u&gt;g&lt;/u&gt;n View(s)" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=#1D6945;html=1;fontColor=#596780;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" parent="ahFWzMbX5e_Db7A9dci_-1" vertex="1">
           <mxGeometry x="722.25" y="220" width="135" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Jmg6BiLPAJYObNaSLyH1-0" value="For Green/Yellow/Red Selector:&amp;nbsp;&lt;br&gt;&lt;br&gt;Should there be an &quot;All Pros&quot; view so supervisors can move all pros to another queue?&amp;nbsp; If so, should only supervisors be able to view it?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="ahFWzMbX5e_Db7A9dci_-1">
-          <mxGeometry x="1250" y="330" width="230" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="Z1zNUxLzVvx_lsf1NlpV-0" value="Viewing Yellow Pros" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;labelBackgroundColor=none;" vertex="1" parent="ahFWzMbX5e_Db7A9dci_-1">
           <mxGeometry x="537.25" y="130" width="165.5" height="40" as="geometry" />
         </mxCell>
@@ -419,8 +416,8 @@
         <mxCell id="HE7YymLMJicX3S-zSROC-0" value="Under Selector:&amp;nbsp;&lt;br&gt;&lt;br&gt;Nothing" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="ahFWzMbX5e_Db7A9dci_-1">
           <mxGeometry x="1470" y="100" width="220" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ynH-Emj1-oHLyFk0Brw6-0" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK:&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Do they need the ability to pull processed pros back in to see them in a queue screen for any reason?&amp;nbsp;&lt;br&gt;&lt;br&gt;Would they need another screen (a later phase or another project) to review what was done?&amp;nbsp;&lt;br&gt;&lt;br&gt;Do they need the ability to manipulate any (SIMPLE) filters/sorts while in the main queue screen?&lt;br&gt;&lt;br&gt;What about filtering/sorting on the sub?&amp;nbsp; Do they need something like a sub-adjust column to use?&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="ahFWzMbX5e_Db7A9dci_-1">
-          <mxGeometry x="1260" y="620" width="420" height="390" as="geometry" />
+        <mxCell id="ynH-Emj1-oHLyFk0Brw6-2" value="On Reject: &lt;br&gt;&lt;br&gt;Confirmation Modal before rejecting (Phase 1 Functionality)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;labelBackgroundColor=none;" vertex="1" parent="ahFWzMbX5e_Db7A9dci_-1">
+          <mxGeometry x="1260" y="350" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -785,9 +782,6 @@
         <mxCell id="ca6S2fDXEIO6Ajth2bw7-90" value="&lt;u&gt;A&lt;/u&gt;dd Pros" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=#1D6945;html=1;fontColor=#596780;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
           <mxGeometry x="577.25" y="207" width="135" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="AT601uPkZvIvOXAz9n7z-0" value="Alternate view - do we want &quot;Add Pros&quot; to be in the top row or the bottom row?&amp;nbsp;&lt;br&gt;&lt;br&gt;Everything else on the bottom row requires you to select a pro, and then those buttons all do something to the selected pro(s).&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
-          <mxGeometry x="1270" y="570" width="370" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="Y8XafmqxGR1Tdi3Q103--0" value="&lt;u&gt;S&lt;/u&gt;elect View" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=#1D6945;html=1;fontColor=#596780;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
           <mxGeometry x="1013.25" y="207" width="135" height="33" as="geometry" />
         </mxCell>
@@ -836,11 +830,8 @@
             <mxPoint y="110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VxxGARHN7kZmvJL0kUDY-10" value="For Green/Yellow/Red Selector:&amp;nbsp;&lt;br&gt;&lt;br&gt;Should there be an &quot;All Pros&quot; view so supervisors can move all pros to another queue?&amp;nbsp; If so, should only supervisors be able to view it?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="ca6S2fDXEIO6Ajth2bw7-1">
-          <mxGeometry x="970" y="790" width="272.75" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="Ppu9xgX5ah4uQrZ8w-cU-0" value="Under Selector:&amp;nbsp;&lt;br&gt;&lt;br&gt;&quot;Add Pros&quot;&amp;nbsp; Button" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="ca6S2fDXEIO6Ajth2bw7-1">
-          <mxGeometry x="670" y="790" width="220" height="180" as="geometry" />
+          <mxGeometry x="1280" y="130" width="220" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1500,46 +1491,43 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PpLBBnZ-K_LrEY5DQ1V2-1" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#1D6945;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontFamily=Verdana;fontSize=13;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="590" height="390" as="geometry" />
+          <mxGeometry x="60" y="40" width="460" height="350" as="geometry" />
         </mxCell>
         <mxCell id="PpLBBnZ-K_LrEY5DQ1V2-2" value="Delete View" style="shape=rect;strokeColor=none;fillColor=#1D6945;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;fontFamily=Verdana;" parent="PpLBBnZ-K_LrEY5DQ1V2-1" vertex="1">
           <mxGeometry x="5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PpLBBnZ-K_LrEY5DQ1V2-3" value="Confirm" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#1D6945;whiteSpace=wrap;fontFamily=Verdana;" parent="PpLBBnZ-K_LrEY5DQ1V2-1" vertex="1">
-          <mxGeometry x="205" y="240" width="150" height="50" as="geometry" />
+          <mxGeometry x="155" y="210" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PpLBBnZ-K_LrEY5DQ1V2-4" value="Cancel" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#1D6945;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#FFFFFF;whiteSpace=wrap;fontFamily=Verdana;" parent="PpLBBnZ-K_LrEY5DQ1V2-1" vertex="1">
-          <mxGeometry x="230" y="313.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="180" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PpLBBnZ-K_LrEY5DQ1V2-14" value="Delete View: Are You Sure?" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=19;fontColor=#1D6945;align=center;fontStyle=1;verticalAlign=middle;" parent="PpLBBnZ-K_LrEY5DQ1V2-1" vertex="1">
-          <mxGeometry x="30" y="67" width="500" height="33" as="geometry" />
+          <mxGeometry x="7.5" y="67" width="445" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="unvTOOb6Hh-q9hmjFBVF-1" value="&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Selecting &quot;Confirm&quot; below will delete this view, which cannot be undone.&amp;nbsp; Are you sure you want to delete this view?&lt;/font&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=center;fontColor=#1D6945;fontStyle=1;fontSize=11;fontFamily=Verdana;whiteSpace=wrap;" parent="PpLBBnZ-K_LrEY5DQ1V2-1" vertex="1">
-          <mxGeometry x="70" y="130" width="420" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="unvTOOb6Hh-q9hmjFBVF-2" value="Don&#39;t let &#39;em hit enter to confirm!!!&amp;nbsp; No shortcut key, just make them click it.&amp;nbsp; We want to be &lt;i&gt;very&lt;/i&gt;&amp;nbsp;sure they really want to delete the view they&#39;re on." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="PpLBBnZ-K_LrEY5DQ1V2-1" vertex="1">
-          <mxGeometry x="370" y="350" width="250" height="200" as="geometry" />
+        <mxCell id="unvTOOb6Hh-q9hmjFBVF-1" value="&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Selecting &quot;Confirm&quot; below will delete this view, which cannot be undone.&amp;nbsp; &lt;br&gt;&lt;br&gt;Are you sure you want to delete this view?&lt;/font&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=center;fontColor=#1D6945;fontStyle=1;fontSize=11;fontFamily=Verdana;whiteSpace=wrap;" parent="PpLBBnZ-K_LrEY5DQ1V2-1" vertex="1">
+          <mxGeometry x="20" y="120" width="420" height="70" as="geometry" />
         </mxCell>
         <mxCell id="unvTOOb6Hh-q9hmjFBVF-3" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#1D6945;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontFamily=Verdana;fontSize=13;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="670" y="30" width="550" height="370" as="geometry" />
+          <mxGeometry x="600" y="30" width="370" height="370" as="geometry" />
         </mxCell>
         <mxCell id="unvTOOb6Hh-q9hmjFBVF-4" value="Abandon Changes" style="shape=rect;strokeColor=none;fillColor=#1D6945;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;fontFamily=Verdana;" parent="unvTOOb6Hh-q9hmjFBVF-3" vertex="1">
           <mxGeometry x="5" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="unvTOOb6Hh-q9hmjFBVF-5" value="Confirm" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#1D6945;whiteSpace=wrap;fontFamily=Verdana;" parent="unvTOOb6Hh-q9hmjFBVF-3" vertex="1">
-          <mxGeometry x="205" y="240" width="150" height="50" as="geometry" />
+          <mxGeometry x="110" y="230" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="unvTOOb6Hh-q9hmjFBVF-6" value="Cancel" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#1D6945;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#FFFFFF;whiteSpace=wrap;fontFamily=Verdana;" parent="unvTOOb6Hh-q9hmjFBVF-3" vertex="1">
-          <mxGeometry x="230" y="313.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="135" y="300" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="unvTOOb6Hh-q9hmjFBVF-7" value="Leave without saving?" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=19;fontColor=#1D6945;align=center;fontStyle=1;verticalAlign=middle;" parent="unvTOOb6Hh-q9hmjFBVF-3" vertex="1">
-          <mxGeometry x="30" y="67" width="500" height="33" as="geometry" />
+          <mxGeometry x="17.5" y="67" width="335" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="unvTOOb6Hh-q9hmjFBVF-8" value="&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Selecting &quot;Confirm&quot; below take you back to your view without saving any of the changes you&#39;ve made.&amp;nbsp; Do you want to abandon your changes?&lt;/font&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=center;fontColor=#1D6945;fontStyle=1;fontSize=11;fontFamily=Verdana;whiteSpace=wrap;" parent="unvTOOb6Hh-q9hmjFBVF-3" vertex="1">
-          <mxGeometry x="70" y="130" width="420" height="70" as="geometry" />
+        <mxCell id="unvTOOb6Hh-q9hmjFBVF-8" value="&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Selecting &quot;Confirm&quot; below take you back to your view without saving any of the changes you&#39;ve made.&amp;nbsp; &lt;br&gt;&lt;br&gt;Do you want to abandon your changes?&lt;/font&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=center;fontColor=#1D6945;fontStyle=1;fontSize=11;fontFamily=Verdana;whiteSpace=wrap;" parent="unvTOOb6Hh-q9hmjFBVF-3" vertex="1">
+          <mxGeometry x="17.5" y="130" width="335" height="70" as="geometry" />
         </mxCell>
         <mxCell id="unvTOOb6Hh-q9hmjFBVF-9" value="This one can have an enter key to confirm like all the other modals we&#39;ve had so far.&amp;nbsp; Delete is the only one we want to stop them from confirming on." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="350" width="250" height="200" as="geometry" />
+          <mxGeometry x="660" y="400" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="2iWtgmEbqr6MwS0GKMgm-1" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#1D6945;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontFamily=Verdana;fontSize=13;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="30" y="710" width="550" height="430" as="geometry" />
@@ -1572,13 +1560,10 @@
           <mxGeometry x="600" y="720" width="250" height="255" as="geometry" />
         </mxCell>
         <mxCell id="etNCPKtV6i2O17KCbmqk-2" value="If user selects &quot;Save a Copy&quot;, then use the new View Name to save the defined view for that user.&amp;nbsp; If user selects &quot;Replace the existing view&quot; then delete existing view and save newly defined view instead." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="870" y="731.5" width="260" height="232" as="geometry" />
+          <mxGeometry x="610" y="980" width="260" height="192" as="geometry" />
         </mxCell>
-        <mxCell id="LUTXOUsypO82akwUwPix-2" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Do we want the system to auto-generate view names? Could that cause issues around duplicate view names?&amp;nbsp; Do the supervisors need the ability to edit those names before saving?&amp;nbsp;&lt;/blockquote&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="1204" y="752.5" width="380" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="LUTXOUsypO82akwUwPix-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/354-Document_Question-128.png" parent="1" vertex="1">
-          <mxGeometry x="1180" y="780" width="68" height="68" as="geometry" />
+        <mxCell id="unvTOOb6Hh-q9hmjFBVF-2" value="Don&#39;t let &#39;em hit enter to confirm!!!&amp;nbsp; No shortcut key, just make them click it.&amp;nbsp; We want to be &lt;i&gt;very&lt;/i&gt;&amp;nbsp;sure they really want to delete the view they&#39;re on." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
+          <mxGeometry x="195" y="390" width="250" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1731,8 +1716,8 @@
         <mxCell id="3Q68PME6wPCZWMfb4c49-21" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#1D6945;html=1;strokeWidth=1;fontSize=12;fontFamily=Verdana;fontColor=#FFFFFF;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="700" y="423" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3Q68PME6wPCZWMfb4c49-22" value="&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;br&gt;Filter Options&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;From ____ to _____&amp;nbsp;&lt;br&gt;&lt;br&gt;____ &quot; or Less&quot;&amp;nbsp;&lt;br&gt;____ &quot; or More&quot;&amp;nbsp;&lt;br&gt;&lt;br&gt;&quot;Contains&quot; ____&amp;nbsp;&lt;br&gt;&quot;Does Not Contain&quot; ____&lt;br&gt;&quot;Starts With&quot; ____&lt;br&gt;&quot;Equals&quot; ____&lt;br&gt;&quot;Not Equal To&quot; ____" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="550" width="260" height="310" as="geometry" />
+        <mxCell id="3Q68PME6wPCZWMfb4c49-22" value="&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;br&gt;Filter Options&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;From ____ to _____&amp;nbsp;&lt;br&gt;&lt;br&gt;____ &quot; or Less&quot;&amp;nbsp;&lt;br&gt;____ &quot; or More&quot;&amp;nbsp;&lt;br&gt;&lt;br&gt;&quot;Contains&quot; ____&amp;nbsp;&lt;br&gt;&quot;Does Not Contain&quot; ____&lt;br&gt;&quot;Starts With&quot; ____&lt;br&gt;&quot;Equals&quot; ____ *&lt;br&gt;&quot;Not Equal To&quot; ____ *&lt;br&gt;&lt;br&gt;* Equals and Not Equal To need to allow a way for the user to select another column so they can show only pros where Billed Density Equals or Does Not Equal the NMFC Density" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="550" width="300" height="450" as="geometry" />
         </mxCell>
         <mxCell id="3Q68PME6wPCZWMfb4c49-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png;fontFamily=Verdana;fontSize=24;fontColor=#1D6945;strokeColor=#1D6945;strokeWidth=0;fillColor=#1D6945;" parent="1" vertex="1">
           <mxGeometry x="1005" y="478.5" width="32.5" height="32.5" as="geometry" />
@@ -1807,7 +1792,7 @@
           <mxGeometry x="1270" y="20" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDcRnnfmUt4jfdNrd0Qx-1" value="Cancel button abandons any changes made to filters and returns filter page to &quot;view&quot; mode.&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#000000;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="880" width="260" height="200" as="geometry" />
+          <mxGeometry x="1000" y="930" width="260" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3889,6 +3874,32 @@
         </mxCell>
         <mxCell id="LLO1BEwGv24Yk_pQ_VnE-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/question-128.png;fontColor=#FFFFFF;fillColor=#1D6945;" parent="IWpSMrALZAfKbgK2rO7E-1" vertex="1">
           <mxGeometry x="1040" y="1310" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MqC1W6_wFAOWYc6ftXFG" name="Open Questions">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C_ZWk2Q87IvK8VMS701g-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Do we want the system to auto-generate view names? Could that cause issues around duplicate view names?&amp;nbsp; Do the supervisors need the ability to edit those names before saving?&amp;nbsp;&lt;/blockquote&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="44" y="40" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="C_ZWk2Q87IvK8VMS701g-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/354-Document_Question-128.png" vertex="1" parent="1">
+          <mxGeometry x="20" y="67.5" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="fgEph6KzOSsX71HIvt8--1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (QUEUE MAIN):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Do they need the ability to pull processed pros back in to see them in a queue screen for any reason?&amp;nbsp;&lt;br&gt;&lt;br&gt;Would they need another screen (a later phase or another project) to review what was done?&amp;nbsp;&lt;br&gt;&lt;br&gt;Do they need the ability to manipulate any (SIMPLE) filters/sorts while in the main queue screen?&lt;br&gt;&lt;br&gt;What about filtering/sorting on the sub?&amp;nbsp; Do they need something like a sub-adjust column to use?&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="420" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="66EiVozCwZdqgxlipga6-1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (QUEUE MAIN):&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;br&gt;For Green/Yellow/Red Selector:&amp;nbsp;&lt;br&gt;&lt;br&gt;Should there be an &quot;All Pros&quot; view so supervisors can move all pros to another queue?&amp;nbsp; If so, should only supervisors be able to view it?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="710" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="UVpZxvcNbKLngl2N61gO-1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (QUEUE MAIN - ALT):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Alternate view - do we want &quot;Add Pros&quot; to be in the top row or the bottom row?&amp;nbsp;&lt;br&gt;&lt;br&gt;Everything else on the bottom row requires you to select a pro, and then those buttons all do something to the selected pro(s)." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="370" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="N9ZiQ6DssJI_UrigZvg9-1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (Flow of Work):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;The users are going to have filters applied that prevent them from seeing some pros. I believe Seth indicated that he wants all pros either rejected or processed.&amp;nbsp;&lt;br&gt;&lt;br&gt;How do we want to handle allowing the users to reject those pros?&amp;nbsp; Should there be a way for users to see &quot;filtered&quot; pros after the rest of the pros have been worked?&amp;nbsp; Should there be a &quot;remaining pros&quot; view?&amp;nbsp; Do we intend to create two views - one to work and one to reject - for each filter we implement?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="420" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
