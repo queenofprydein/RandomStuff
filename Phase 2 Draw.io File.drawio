@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T15:06:06.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3ZcZrqLCvRMmFHEtcMHT" version="20.2.8" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-09-09T14:53:24.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KD-ynxVMAPmXMvWtOb3z" version="20.3.0" type="github" pages="11">
   <diagram id="GwdA1OMSDbkMOna7wACb" name="Queue - Main">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ahFWzMbX5e_Db7A9dci_-0" />
         <mxCell id="ahFWzMbX5e_Db7A9dci_-1" parent="ahFWzMbX5e_Db7A9dci_-0" />
         <mxCell id="E44_ided60FmC-qaDxwa-0" value="Dimensioner Analyst Queue" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" parent="ahFWzMbX5e_Db7A9dci_-1" vertex="1">
           <mxGeometry x="10" y="20" width="1220" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="_cHO2DvRNpWZTF4N4XOS-0" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;View - All Pros&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=20;fontColor=#1D6945;align=center;fontStyle=1;verticalAlign=bottom;" vertex="1" parent="ahFWzMbX5e_Db7A9dci_-1">
+        <mxCell id="_cHO2DvRNpWZTF4N4XOS-0" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;View - All Pros&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=20;fontColor=#1D6945;align=center;fontStyle=1;verticalAlign=bottom;" parent="ahFWzMbX5e_Db7A9dci_-1" vertex="1">
           <mxGeometry x="504.5" y="209.75" width="210" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="3moRdXlQpSnycCMzWwKY-1" value="&lt;h1&gt;Dimensioner Analyst Queue - Bob Smith&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=12;fontColor=#1D6945;align=center;fontStyle=1" parent="ahFWzMbX5e_Db7A9dci_-1" vertex="1">
@@ -386,7 +386,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i7Zw_qo0UdnV_fq2c_K6-0" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;fontColor=#D6C802;" parent="ahFWzMbX5e_Db7A9dci_-1" vertex="1">
-          <mxGeometry x="537.25" y="190" width="170" height="150" as="geometry" />
+          <mxGeometry x="537.25" y="180" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="i7Zw_qo0UdnV_fq2c_K6-1" value="Green Pros    (32 Pros)" style="fillColor=#cdeb8b;strokeColor=#36393d;align=left;spacing=20;fontSize=14;labelBackgroundColor=none;" parent="i7Zw_qo0UdnV_fq2c_K6-0" vertex="1">
           <mxGeometry width="170" height="30" relative="1" as="geometry">
@@ -422,14 +422,14 @@
         <mxCell id="ynH-Emj1-oHLyFk0Brw6-2" value="On Reject: &lt;br&gt;&lt;br&gt;Confirmation Modal before rejecting (Phase 1 Functionality)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;labelBackgroundColor=none;" parent="ahFWzMbX5e_Db7A9dci_-1" vertex="1">
           <mxGeometry x="1260" y="350" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="x_O0Z1QKnYKG5eCvbwG--0" value="Need the ability to &quot;quick sort&quot; or &quot;quick filter&quot; inside the table on the fly based on any visible columns." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="ahFWzMbX5e_Db7A9dci_-1">
+        <mxCell id="x_O0Z1QKnYKG5eCvbwG--0" value="Need the ability to &quot;quick sort&quot; or &quot;quick filter&quot; inside the table on the fly based on any visible columns." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="ahFWzMbX5e_Db7A9dci_-1" vertex="1">
           <mxGeometry x="1250" y="580" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Queue - Main (Alt)" id="UHCO4ibv5JbgRgAT3GLA">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ca6S2fDXEIO6Ajth2bw7-0" />
         <mxCell id="ca6S2fDXEIO6Ajth2bw7-1" parent="ca6S2fDXEIO6Ajth2bw7-0" />
@@ -783,12 +783,12 @@
           <mxGeometry x="1270" y="20" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ca6S2fDXEIO6Ajth2bw7-90" value="&lt;u&gt;A&lt;/u&gt;dd Pros" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=#1D6945;html=1;fontColor=#596780;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
-          <mxGeometry x="577.25" y="207" width="135" height="33" as="geometry" />
+          <mxGeometry x="220" y="207" width="135" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Y8XafmqxGR1Tdi3Q103--0" value="&lt;u&gt;S&lt;/u&gt;elect View" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=#1D6945;html=1;fontColor=#596780;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
           <mxGeometry x="1013.25" y="207" width="135" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Y8XafmqxGR1Tdi3Q103--1" value="Create &lt;u&gt;V&lt;/u&gt;iew" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=#1D6945;html=1;fontColor=#596780;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
+        <mxCell id="Y8XafmqxGR1Tdi3Q103--1" value="Edit&amp;nbsp;&lt;u&gt;V&lt;/u&gt;iew" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=#1D6945;html=1;fontColor=#596780;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
           <mxGeometry x="867.25" y="207" width="135" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Y8XafmqxGR1Tdi3Q103--2" value="&lt;u&gt;R&lt;/u&gt;efresh Queue" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=#1D6945;html=1;fontColor=#596780;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
@@ -805,48 +805,56 @@
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AAjd8z3FGtN7TUR2Ptsw-0" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;View - All Pros&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=20;fontColor=#1D6945;align=center;fontStyle=1;verticalAlign=bottom;" vertex="1" parent="ca6S2fDXEIO6Ajth2bw7-1">
-          <mxGeometry x="360" y="196.75" width="210" height="53.5" as="geometry" />
-        </mxCell>
-        <mxCell id="VxxGARHN7kZmvJL0kUDY-4" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;fontColor=#D6C802;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
-          <mxGeometry x="537.25" y="177" width="170" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="VxxGARHN7kZmvJL0kUDY-5" value="Green Pros" style="fillColor=#cdeb8b;strokeColor=#36393d;align=left;spacing=20;fontSize=14;labelBackgroundColor=none;" parent="VxxGARHN7kZmvJL0kUDY-4" vertex="1">
-          <mxGeometry width="170" height="30" relative="1" as="geometry">
-            <mxPoint y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VxxGARHN7kZmvJL0kUDY-6" value="Yellow Pros" style="fillColor=#ffff88;strokeColor=#36393d;align=left;spacing=20;fontSize=14;" parent="VxxGARHN7kZmvJL0kUDY-4" vertex="1">
-          <mxGeometry width="170" height="30" relative="1" as="geometry">
-            <mxPoint y="40" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VxxGARHN7kZmvJL0kUDY-7" value="Red Pros" style="fillColor=#ffcccc;strokeColor=#36393d;align=left;spacing=20;fontSize=14;" parent="VxxGARHN7kZmvJL0kUDY-4" vertex="1">
-          <mxGeometry width="170" height="30" relative="1" as="geometry">
-            <mxPoint y="70" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VxxGARHN7kZmvJL0kUDY-8" value="" style="shape=line;strokeColor=#999999;perimeter=none;resizeWidth=1;fontColor=#D6C802;fillColor=#FBFF00;" parent="VxxGARHN7kZmvJL0kUDY-4" vertex="1">
-          <mxGeometry width="170" height="10" relative="1" as="geometry">
-            <mxPoint y="100" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VxxGARHN7kZmvJL0kUDY-9" value="All Pros (Sup Only)" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;fontColor=#000000;" parent="VxxGARHN7kZmvJL0kUDY-4" vertex="1">
-          <mxGeometry width="170" height="30" relative="1" as="geometry">
-            <mxPoint y="110" as="offset" />
-          </mxGeometry>
+        <mxCell id="AAjd8z3FGtN7TUR2Ptsw-0" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;View - All Pros&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=20;fontColor=#1D6945;align=center;fontStyle=1;verticalAlign=bottom;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
+          <mxGeometry x="492.75" y="196.75" width="210" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="Ppu9xgX5ah4uQrZ8w-cU-0" value="Under Selector:&amp;nbsp;&lt;br&gt;&lt;br&gt;&quot;Add Pros&quot;&amp;nbsp; Button" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
           <mxGeometry x="1280" y="130" width="220" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="lwH62DRR4ZYo290JqGsD-0" value="&lt;h1&gt;Dimensioner Analyst Queue - Bob Smith&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=12;fontColor=#1D6945;align=center;fontStyle=1" vertex="1" parent="ca6S2fDXEIO6Ajth2bw7-1">
+        <mxCell id="lwH62DRR4ZYo290JqGsD-0" value="&lt;h1&gt;Dimensioner Analyst Queue - Bob Smith&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=12;fontColor=#1D6945;align=center;fontStyle=1" parent="ca6S2fDXEIO6Ajth2bw7-1" vertex="1">
           <mxGeometry x="30" y="90" width="1180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Voapb8vp2kNXTGmaaB9a-0" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;fontColor=#D6C802;" vertex="1" parent="ca6S2fDXEIO6Ajth2bw7-1">
+          <mxGeometry x="537.25" y="170" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Voapb8vp2kNXTGmaaB9a-1" value="Green Pros    (32 Pros)" style="fillColor=#cdeb8b;strokeColor=#36393d;align=left;spacing=20;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="Voapb8vp2kNXTGmaaB9a-0">
+          <mxGeometry width="170" height="30" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Voapb8vp2kNXTGmaaB9a-2" value="Yellow Pros    (12 Pros)" style="fillColor=#ffff88;strokeColor=#36393d;align=left;spacing=20;fontSize=14;" vertex="1" parent="Voapb8vp2kNXTGmaaB9a-0">
+          <mxGeometry width="170" height="30" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Voapb8vp2kNXTGmaaB9a-3" value="Red Pros        (6 Pros)" style="fillColor=#ffcccc;strokeColor=#36393d;align=left;spacing=20;fontSize=14;" vertex="1" parent="Voapb8vp2kNXTGmaaB9a-0">
+          <mxGeometry width="170" height="30" relative="1" as="geometry">
+            <mxPoint y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Voapb8vp2kNXTGmaaB9a-4" value="" style="shape=line;strokeColor=#999999;perimeter=none;resizeWidth=1;fontColor=#D6C802;fillColor=#FBFF00;" vertex="1" parent="Voapb8vp2kNXTGmaaB9a-0">
+          <mxGeometry width="170" height="10" relative="1" as="geometry">
+            <mxPoint y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Voapb8vp2kNXTGmaaB9a-5" value="All Pros (Sup Only)" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;fontColor=#000000;" vertex="1" parent="Voapb8vp2kNXTGmaaB9a-0">
+          <mxGeometry width="170" height="30" relative="1" as="geometry">
+            <mxPoint y="110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Voapb8vp2kNXTGmaaB9a-6" value="Viewing Green Pros" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;" vertex="1" parent="ca6S2fDXEIO6Ajth2bw7-1">
+          <mxGeometry x="1320" y="344" width="165.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Voapb8vp2kNXTGmaaB9a-7" value="" style="shape=triangle;direction=south;fillColor=#ffffff;strokeColor=none;perimeter=none;fontColor=#D6C802;" vertex="1" parent="Voapb8vp2kNXTGmaaB9a-6">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="WNUxJOtlbGCNIm24k3Th" name="Edit View">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1488,17 +1496,17 @@
         <mxCell id="e2fR63_mno6JmEV6Pqtw-1" value="Under Selector:&amp;nbsp;&lt;br&gt;&lt;br&gt;&quot;Abandon Changes&quot; &lt;br&gt;Button" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
           <mxGeometry x="1310" y="909" width="220" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="z4LS0Zjb8uo6WUAS9zsA-1" value="&lt;h1&gt;Dimensioner Analyst Queue - Bob Smith&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=12;fontColor=#1D6945;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="z4LS0Zjb8uo6WUAS9zsA-1" value="&lt;h1&gt;Dimensioner Analyst Queue - Bob Smith&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=12;fontColor=#1D6945;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="30" y="90" width="1180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6vEFT6_S_rsyXrFTCpt-1" value="When on &quot;All Pros&quot; view, the &quot;Delete View&quot; button is either disabled or not visible." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+        <mxCell id="e6vEFT6_S_rsyXrFTCpt-1" value="When on &quot;All Pros&quot; view, the &quot;Delete View&quot; button is either disabled or not visible." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
           <mxGeometry x="1031" y="1010" width="220" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="YUs_G-NvKh5gZZfNxpiC" name="Confirmation Modals">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1568,20 +1576,20 @@
         <mxCell id="1GsylT404_wn47PgcjLz-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;View Name:&lt;/font&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=12;fontStyle=0;align=left;fontColor=#1D6945;fontStyle=1;fontSize=11;fontFamily=Verdana;" parent="2iWtgmEbqr6MwS0GKMgm-1" vertex="1">
           <mxGeometry x="90" y="205" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="etNCPKtV6i2O17KCbmqk-1" value="If we let users name their own views, then show textbox to allow them to change the name.&amp;nbsp; Otherwise, show the (non-editable) view name based on the view&#39;s setup.&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="600" y="720" width="250" height="255" as="geometry" />
-        </mxCell>
         <mxCell id="etNCPKtV6i2O17KCbmqk-2" value="If user selects &quot;Save a Copy&quot;, then use the new View Name to save the defined view for that user.&amp;nbsp; If user selects &quot;Replace the existing view&quot; then delete existing view and save newly defined view instead." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
           <mxGeometry x="610" y="980" width="260" height="192" as="geometry" />
         </mxCell>
         <mxCell id="unvTOOb6Hh-q9hmjFBVF-2" value="Don&#39;t let &#39;em hit enter to confirm!!!&amp;nbsp; No shortcut key, just make them click it.&amp;nbsp; We want to be &lt;i&gt;very&lt;/i&gt;&amp;nbsp;sure they really want to delete the view they&#39;re on." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
           <mxGeometry x="195" y="390" width="250" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="mXgLdbLVhoSV4_pKpC-D-1" value="If adjusting the All Pros view, give a warning message if the user selects &quot;Replace&quot; and disable the text box - nobody can rename the &quot;All Pros&quot; view.&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="720" width="260" height="192" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="qk7sBE5eLElDvL1dSi-H" name="View Filters">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1651,17 +1659,17 @@
         <mxCell id="54sWBY2eExXeyWqMGyZ3-22" value="Equals" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="545" y="415" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="54sWBY2eExXeyWqMGyZ3-23" value="Management needs the ability to assign views to specific users or to set view to public.&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="890" y="890" width="200" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="54sWBY2eExXeyWqMGyZ3-24" value="2" style="shape=display;whiteSpace=wrap;html=1;fontSize=36;fillColor=#6600CC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1270" y="20" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vWenwzGq3nzdIjiDjeh3-1" value="&lt;h1&gt;NOTE&lt;/h1&gt;&lt;p&gt;Add something here to indicate that Filters apply to Green, Yellow, AND Red sub-views&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="570" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="_jTpFw2U8aijhxYMqwR4" name="Edit Filters">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1810,7 +1818,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DqyDgr4zZjdUusKfuajx" name="Select Columns">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2550,14 +2558,14 @@
         <mxCell id="pT8ScT8HDKFtqpGYhhSB-172" value="2" style="shape=display;whiteSpace=wrap;html=1;fontSize=36;fillColor=#6600CC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1280" y="20" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EWBP6vFnPEDX4EjEfI7l-1" value="&lt;h1&gt;Dimensioner Analyst Queue - Bob Smith&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=12;fontColor=#1D6945;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="EWBP6vFnPEDX4EjEfI7l-1" value="&lt;h1&gt;Dimensioner Analyst Queue - Bob Smith&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=12;fontColor=#1D6945;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="30" y="90" width="1180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Select Columns - Keyboard Version" id="25_Huh11S4dS5JQab05T">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="_FJtMQv0oCx-56eBHe9K-0" />
         <mxCell id="_FJtMQv0oCx-56eBHe9K-1" parent="_FJtMQv0oCx-56eBHe9K-0" />
@@ -3271,14 +3279,14 @@
         <mxCell id="_AK8E7IqBx2ERkgXqYUe-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#FFFFFF;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-3/24/bx-refresh-128.png;fontColor=#FFFFFF;imageBackground=default;" parent="_FJtMQv0oCx-56eBHe9K-1" vertex="1">
           <mxGeometry x="654.78" y="970" width="32.72" height="32.72" as="geometry" />
         </mxCell>
-        <mxCell id="uBrJaWAJu4OBwAakZSly-0" value="&lt;h1&gt;Dimensioner Analyst Queue - Bob Smith&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=12;fontColor=#1D6945;align=center;fontStyle=1" vertex="1" parent="_FJtMQv0oCx-56eBHe9K-1">
+        <mxCell id="uBrJaWAJu4OBwAakZSly-0" value="&lt;h1&gt;Dimensioner Analyst Queue - Bob Smith&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=12;fontColor=#1D6945;align=center;fontStyle=1" parent="_FJtMQv0oCx-56eBHe9K-1" vertex="1">
           <mxGeometry x="30" y="90" width="1180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Select View" id="LsdeGQDfQvKYBKM7OyHF">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JYJePIVnORNLwMIx4UnI-0" />
         <mxCell id="JYJePIVnORNLwMIx4UnI-1" parent="JYJePIVnORNLwMIx4UnI-0" />
@@ -3728,7 +3736,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Assign View" id="taZhwQ_6Tzexbds9tKJP">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IWpSMrALZAfKbgK2rO7E-0" />
         <mxCell id="IWpSMrALZAfKbgK2rO7E-1" parent="IWpSMrALZAfKbgK2rO7E-0" />
@@ -3764,6 +3772,9 @@
         </mxCell>
         <mxCell id="sYAJ8A_zfWD9KrP1VU83-35" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;" parent="sZ9BTbNYzyI3yxXKRKoB-6" vertex="1">
           <mxGeometry x="707.5" y="20" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="nyNqPQKAge8YjwiRKnQR-1" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;" vertex="1" parent="sZ9BTbNYzyI3yxXKRKoB-6">
+          <mxGeometry x="822.5" y="20" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="sZ9BTbNYzyI3yxXKRKoB-10" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#FFFFFF;fillColor=#ffffff;recursiveResize=0;" parent="IWpSMrALZAfKbgK2rO7E-1" vertex="1">
           <mxGeometry x="185" y="366" width="915" height="437" as="geometry" />
@@ -3834,8 +3845,17 @@
         <mxCell id="sYAJ8A_zfWD9KrP1VU83-10" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontFamily=Verdana;fontSize=8;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeColor=#D4D4D4;shadow=0;" parent="sZ9BTbNYzyI3yxXKRKoB-10" vertex="1">
           <mxGeometry y="257" width="895" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="us3691wIcZO3QXM7fepY-0" value="&lt;u&gt;C&lt;/u&gt;ancel" style="rounded=1;align=center;fillColor=#1D6945;strokeColor=#1D6945;html=1;fontColor=#FFFFFF;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" vertex="1" parent="sZ9BTbNYzyI3yxXKRKoB-10">
+        <mxCell id="us3691wIcZO3QXM7fepY-0" value="&lt;u&gt;C&lt;/u&gt;ancel" style="rounded=1;align=center;fillColor=#1D6945;strokeColor=#1D6945;html=1;fontColor=#FFFFFF;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" parent="sZ9BTbNYzyI3yxXKRKoB-10" vertex="1">
           <mxGeometry x="-15" y="404" width="140" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="nyNqPQKAge8YjwiRKnQR-2" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;" vertex="1" parent="sZ9BTbNYzyI3yxXKRKoB-10">
+          <mxGeometry x="825" y="20" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="nyNqPQKAge8YjwiRKnQR-3" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;" vertex="1" parent="sZ9BTbNYzyI3yxXKRKoB-10">
+          <mxGeometry x="825" y="76" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="nyNqPQKAge8YjwiRKnQR-4" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;" vertex="1" parent="sZ9BTbNYzyI3yxXKRKoB-10">
+          <mxGeometry x="825" y="128" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="sZ9BTbNYzyI3yxXKRKoB-21" value="Completed" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=15;fontColor=#1D6945;align=left;fontStyle=1;verticalAlign=middle;" parent="IWpSMrALZAfKbgK2rO7E-1" vertex="1">
           <mxGeometry x="187.5" y="633" width="180" height="33" as="geometry" />
@@ -3864,7 +3884,7 @@
         <mxCell id="NfdZj_w-fPR5PR0u8Pta-3" value="Change &lt;u&gt;Q&lt;/u&gt;ueue" style="rounded=1;align=center;fillColor=#1D6945;strokeColor=#1D6945;html=1;fontColor=#FFFFFF;fontSize=12;sketch=0;shadow=0;fontFamily=Verdana;strokeWidth=1;" parent="IWpSMrALZAfKbgK2rO7E-1" vertex="1">
           <mxGeometry x="825" y="780" width="140" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="NfdZj_w-fPR5PR0u8Pta-4" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Is this the best way to handle?&amp;nbsp; Problems:&amp;nbsp;&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;* Have to be able to ask the user whether we want to MOVE or COPY the view(s), making more buttons/check marks on the screen&lt;br&gt;&lt;br&gt;* Talk through use cases - what are the supervisors doing when they come in here &lt;i&gt;most&lt;/i&gt;&amp;nbsp;often, and what do they need an &lt;i&gt;option&lt;/i&gt;&amp;nbsp;to be able to do?&amp;nbsp;&lt;br&gt;&lt;br&gt;* Is there a more elegant approach that doesn&#39;t fill the screen with controls, but gives supervisors both control and visibility in real-time?&amp;nbsp;&lt;br&gt;&lt;br&gt;* Zack may not have thought through what the supervisors need to see vs. what he needs to see, and they may want/need the ability to see the &quot;success&quot; metrics over a given view.&amp;nbsp; Is it possible they&#39;d need to be able to identify where the most revenue comes from when making a decision on which pros/views to assign and to whom?&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="IWpSMrALZAfKbgK2rO7E-1" vertex="1">
+        <mxCell id="NfdZj_w-fPR5PR0u8Pta-4" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Is this the best way to handle?&amp;nbsp; Problems:&amp;nbsp;&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;* Have to be able to ask the user whether we want to MOVE or COPY the view(s), making more buttons/check marks on the screen&lt;br&gt;&lt;br&gt;* Talk through use cases - what are the supervisors doing when they come in here &lt;i&gt;most&lt;/i&gt;&amp;nbsp;often, and what do they need an &lt;i&gt;option&lt;/i&gt;&amp;nbsp;to be able to do?&amp;nbsp;&lt;br&gt;&lt;br&gt;* Is there a more elegant approach that doesn&#39;t fill the screen with controls, but gives supervisors both control and visibility in real-time?&amp;nbsp;&lt;br&gt;&lt;br&gt;* Zack may not have thought through what the supervisors need to see vs. what he needs to see, and they may want/need the ability to see the &quot;success&quot; metrics over a given view.&amp;nbsp; Is it possible they&#39;d need to be able to identify where the most revenue comes from when making a decision on which pros/views to assign and to whom?&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;*** Need to add the ability to auto-send emails to notify users that they&#39;re getting pros/views.&amp;nbsp;&lt;br&gt;&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="IWpSMrALZAfKbgK2rO7E-1" vertex="1">
           <mxGeometry x="90" y="1010" width="740" height="520" as="geometry" />
         </mxCell>
         <mxCell id="LLO1BEwGv24Yk_pQ_VnE-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#ffffff;strokeColor=#666666;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="IWpSMrALZAfKbgK2rO7E-1" vertex="1">
@@ -3887,34 +3907,61 @@
         <mxCell id="LLO1BEwGv24Yk_pQ_VnE-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/question-128.png;fontColor=#FFFFFF;fillColor=#1D6945;" parent="IWpSMrALZAfKbgK2rO7E-1" vertex="1">
           <mxGeometry x="1040" y="1310" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nyNqPQKAge8YjwiRKnQR-0" value="Today Only?" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Verdana;fontSize=15;fontColor=#1D6945;align=left;fontStyle=1;verticalAlign=middle;" vertex="1" parent="IWpSMrALZAfKbgK2rO7E-1">
+          <mxGeometry x="970" y="210" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="H2QwIPT7BU8wgWvPTTLQ-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/040_-_Tick-128.png" vertex="1" parent="IWpSMrALZAfKbgK2rO7E-1">
+          <mxGeometry x="1110" y="1210" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3WA-YLd1PR9dMkwDSl1c-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/040_-_Tick-128.png" vertex="1" parent="IWpSMrALZAfKbgK2rO7E-1">
+          <mxGeometry x="740" y="1450" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="MqC1W6_wFAOWYc6ftXFG" name="Open Questions">
-    <mxGraphModel dx="1600" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C_ZWk2Q87IvK8VMS701g-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Do we want the system to auto-generate view names? Could that cause issues around duplicate view names?&amp;nbsp; Do the supervisors need the ability to edit those names before saving?&amp;nbsp;&lt;/blockquote&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="44" y="40" width="380" height="200" as="geometry" />
+        <mxCell id="C_ZWk2Q87IvK8VMS701g-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Do we want the system to auto-generate view names? Could that cause issues around duplicate view names?&amp;nbsp; Do the supervisors need the ability to edit those names before saving?&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;ZACK: We should let the supervisors create the names.&amp;nbsp;&amp;nbsp;&lt;/blockquote&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
+          <mxGeometry x="50" y="40" width="380" height="250" as="geometry" />
         </mxCell>
         <mxCell id="C_ZWk2Q87IvK8VMS701g-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/354-Document_Question-128.png" parent="1" vertex="1">
           <mxGeometry x="20" y="67.5" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="fgEph6KzOSsX71HIvt8--1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (QUEUE MAIN):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Do they need the ability to pull processed pros back in to see them in a queue screen for any reason?&amp;nbsp;&lt;br&gt;&lt;br&gt;Would they need another screen (a later phase or another project) to review what was done?&amp;nbsp;&lt;br&gt;&lt;br&gt;Do they need the ability to manipulate any (SIMPLE) filters/sorts while in the main queue screen?&lt;br&gt;&lt;br&gt;What about filtering/sorting on the sub?&amp;nbsp; Do they need something like a sub-adjust column to use?&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="30" y="300" width="420" height="390" as="geometry" />
+        <mxCell id="fgEph6KzOSsX71HIvt8--1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (QUEUE MAIN):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Do they need the ability to pull processed pros back in to see them in a queue screen for any reason?&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;u&gt;-- No, this will be handed through reporting&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Would they need another screen (a later phase or another project) to review what was done?&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;u&gt;-- No, not needed&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Do they need the ability to manipulate any (SIMPLE) filters/sorts while in the main queue screen?&lt;br&gt;&lt;b&gt;&lt;u&gt;-- Functions needed (Analyst/Supervisor):&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;-- Dragging Columns (without saving)&lt;br&gt;-- Excel-like multi-select/Filter and sort on columns within the view (without saving)&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;-- Functions needed (Supervisor Only)&lt;br&gt;&lt;/u&gt;&lt;/b&gt;* Sorting with Filters&lt;br&gt;&lt;br&gt;What about filtering/sorting on the sub?&amp;nbsp; Do they need something like a sub-adjust column to use?&lt;br&gt;&lt;b&gt;&lt;u&gt;-- Yes, need to be able to see Sub/Class Adjust&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
+          <mxGeometry x="30" y="340" width="420" height="670" as="geometry" />
         </mxCell>
         <mxCell id="66EiVozCwZdqgxlipga6-1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (QUEUE MAIN):&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;br&gt;For Green/Yellow/Red Selector:&amp;nbsp;&lt;br&gt;&lt;br&gt;Should there be an &quot;All Pros&quot; view so supervisors can move all pros to another queue?&amp;nbsp; If so, should only supervisors be able to view it?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="50" y="710" width="420" height="220" as="geometry" />
+          <mxGeometry x="960" y="410" width="420" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="UVpZxvcNbKLngl2N61gO-1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (QUEUE MAIN - ALT):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Alternate view - do we want &quot;Add Pros&quot; to be in the top row or the bottom row?&amp;nbsp;&lt;br&gt;&lt;br&gt;Everything else on the bottom row requires you to select a pro, and then those buttons all do something to the selected pro(s)." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="460" y="40" width="370" height="300" as="geometry" />
+        <mxCell id="UVpZxvcNbKLngl2N61gO-1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (QUEUE MAIN - ALT):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Alternate view - do we want &quot;Add Pros&quot; to be in the top row or the bottom row?&amp;nbsp;&lt;br&gt;&lt;br&gt;Everything else on the bottom row requires you to select a pro, and then those buttons all do something to the selected pro(s).&lt;br&gt;&lt;br&gt;ZACK: Second view (alt) is better.&amp;nbsp; ... after the changes I made while talking to him - Add Pros goes with Refresh Queue" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
+          <mxGeometry x="470" y="20" width="430" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="N9ZiQ6DssJI_UrigZvg9-1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (Flow of Work):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;The users are going to have filters applied that prevent them from seeing some pros. I believe Seth indicated that he wants all pros either rejected or processed.&amp;nbsp;&lt;br&gt;&lt;br&gt;How do we want to handle allowing the users to reject those pros?&amp;nbsp; Should there be a way for users to see &quot;filtered&quot; pros after the rest of the pros have been worked?&amp;nbsp; Should there be a &quot;remaining pros&quot; view?&amp;nbsp; Do we intend to create two views - one to work and one to reject - for each filter we implement?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="480" y="350" width="420" height="390" as="geometry" />
+        <mxCell id="N9ZiQ6DssJI_UrigZvg9-1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (Flow of Work):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;The users are going to have filters applied that prevent them from seeing some pros. I believe Seth indicated that he wants all pros either rejected or processed.&amp;nbsp;&lt;br&gt;&lt;br&gt;How do we want to handle allowing the users to reject those pros?&amp;nbsp; Should there be a way for users to see &quot;filtered&quot; pros after the rest of the pros have been worked?&amp;nbsp; Should there be a &quot;remaining pros&quot; view?&amp;nbsp; Do we intend to create two views - one to work and one to reject - for each filter we implement?&lt;br&gt;&lt;br&gt;-- Wants a way to create filters that CAN or CANNOT be adjusted by the user, allowing service center as the &quot;main&quot; criteria, and then flexible criteria underneath for the users to adjust." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
+          <mxGeometry x="480" y="370" width="480" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="QNI9awXq3U3vj7JyWk85-1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (Editing a View):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Assuming filters apply on all green/yellow/red, but column selections/order applies per type (adjusting columns on green doesn&#39;t change columns on red, for example)...&amp;nbsp;&lt;br&gt;&lt;br&gt;1.&amp;nbsp; Is that what you want?&amp;nbsp;&lt;br&gt;&lt;br&gt;2.&amp;nbsp; Do we need to make it clearer to the user that those are the rules?&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="940" y="40" width="500" height="300" as="geometry" />
+        <mxCell id="QNI9awXq3U3vj7JyWk85-1" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QUESTION FOR ZACK (Editing a View):&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Assuming filters apply on all green/yellow/red, but column selections/order applies per type (adjusting columns on green doesn&#39;t change columns on red, for example)...&amp;nbsp;&lt;br&gt;&lt;br&gt;1.&amp;nbsp; Is that what you want?&amp;nbsp;&lt;br&gt;&lt;br&gt;2.&amp;nbsp; Do we need to make it clearer to the user that those are the rules?&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;-- Yes, that&#39;s what he wants.&amp;nbsp; He believes we need to tell the supervisors or otherwise clarify.&amp;nbsp;&lt;/u&gt;&lt;/b&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
+          <mxGeometry x="940" y="40" width="640" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="mJmRonNBmnho867F0ILJ-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/040_-_Tick-128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aG8xF_3WoQSazaZHFr-B-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/040_-_Tick-128.png" vertex="1" parent="1">
+          <mxGeometry x="830" y="290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m07R4ErP2JoJazENAz5K-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/040_-_Tick-128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="920" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PfhhdXtOhVipUI0Lpman-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/040_-_Tick-128.png" vertex="1" parent="1">
+          <mxGeometry x="1450" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h9egbg6Skw654hn8XlEi-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#F4AF20;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+          <mxGeometry x="840" y="820" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BxKXy4lzdY4Fzpnh2kos-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/040_-_Tick-128.png" vertex="1" parent="1">
+          <mxGeometry x="1320" y="575" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
